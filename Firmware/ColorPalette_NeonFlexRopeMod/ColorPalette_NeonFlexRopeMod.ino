@@ -1,3 +1,9 @@
+/*Modified FastLED ColorPalette.ino Example
+ * 
+ * Description: This modified ColorPalette example is used to control all segments
+ * of the LED Neon Flex Rope.
+ */
+
 #include <FastLED.h>
 
 #define LED_PIN     5
