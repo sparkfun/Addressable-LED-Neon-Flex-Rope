@@ -18,3 +18,12 @@ Documentation
 * **[Installing an Arduino Library Guide](https://learn.sparkfun.com/tutorials/installing-an-arduino-library)** - Basic information on how to install an Arduino library.
 * **[Library](https://github.com/FastLED/FastLED)** - Library for the LED Neon Flex Rope.
 * **[Hookup Guide](https://learn.sparkfun.com/tutorials/addressable-led-neon-flex-rope-hookup-guide)** - Basic hookup guide for the LED Neon Flex Rope.
+
+License Information
+-------------------
+
+Please review the FastLED library's LICENSE.md file for the MIT license information. 
+
+- Your friends at SparkFun.
+
+_<COLLABORATION CREDIT>_
