@@ -1,4 +1,4 @@
-LED Neon Flex Rope
+Addressable LED Neon Flex Rope
 ========================================
 
 [![Addressable LED Neon Flex Rope](https://cdn.sparkfun.com/r/300-300/assets/learn_tutorials/7/6/3/14555-LED_Neon_Flex_Rope-Action-04.jpg)](https://cdn.sparkfun.com/assets/learn_tutorials/7/6/3/14555-LED_Neon_Flex_Rope-Action-04.jpg)
